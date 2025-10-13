@@ -1,7 +1,7 @@
 ---
-title: راهنما
+title: Help
 layout: default
 nav_order: 1
 ---
 
-راهنما
+help text

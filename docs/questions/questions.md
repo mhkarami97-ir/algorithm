@@ -1,7 +1,7 @@
 ---
-title: سوالات
+title: Questions
 layout: default
 nav_order: 1
 ---
 
-لیست سوالات
+Questions list
