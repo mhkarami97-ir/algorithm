@@ -123,9 +123,3 @@ nav_error_report: true # default is false/nil.
 liquid:
   error_mode: strict
   strict_filters: true
-
-plugins:
-  - jekyll-seo-tag
-  - jekyll-github-metadata
-  - jekyll-include-cache
-  - jekyll-sitemap
