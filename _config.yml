@@ -1,8 +1,8 @@
-title: الگوریتم
-description: حل سوالات الگوریتمی
+title: Algorithm
+description: Solve Algorithms
 theme: just-the-docs
 
-url: https://algorithm.mhkarami97.ir/
+url: "https://algorithm.mhkarami97.ir"
 
 permalink: pretty
 
@@ -93,7 +93,7 @@ mermaid:
 
 # Aux links for the upper right navigation
 aux_links:
-  "Just the Docs on GitHub":
+  "Algorithm":
     - "https://algorithm.mhkarami97.ir"
 
 # Makes Aux links open in a new tab. Default is false
