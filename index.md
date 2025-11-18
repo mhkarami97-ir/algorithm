@@ -1,27 +1,24 @@
 ---
-title: Home
+title: خانه
 layout: home
 nav_order: 1
 ---
 
-🧠 Master Algorithms, One Problem at a Time
+🧠 **تسلط بر الگوریتم‌ها، یک مسئله در هر لحظه**
 
-Welcome to our blog, a place where we turn complex LeetCode problems into clear, structured solutions.
-Each post is more than just code — it’s an in-depth walkthrough of how to think like an engineer, design like an architect, and write like a craftsman.
+به وبلاگ ما خوش آمدید؛ جایی که مسائل پیچیده‌ی LeetCode را به راه‌حل‌هایی شفاف، ساختارمند و قابل‌درک تبدیل می‌کنیم.
 
-Here you’ll find:
+در هر پست فقط کد نمی‌بینید — بلکه یک مسیر قدم‌به‌قدم برای *فکر کردن مثل یک مهندس، طراحی کردن مثل یک معمار، و نوشتن مثل یک صنعت‌گر* را دنبال می‌کنیم.
 
-Clean, well-designed C# solutions using modern .NET
+در اینجا خواهید یافت:
 
-Detailed algorithm explanations — not just what works, but why it works
+- راه‌حل‌های تمیز، اصولی و مدرن با C# و .NET
+- توضیحات عمیق الگوریتمی — نه فقط این‌که چه چیزی کار می‌کند، بلکه *چرا* کار می‌کند
+- تحلیل زمانی و فضایی با تکیه بر مبانی نظری و تجربهٔ عملی
+- معرفی چند مسیر حل: از روش brute-force تا بهینه‌ترین رویکرد
+- نکات طراحی و ساختار داده‌ها که در پروژه‌های واقعی نیز کاربرد دارند
 
-Time and space complexity analysis grounded in theory and practice
+چه برای مصاحبهٔ شغلی آماده می‌شوید، چه می‌خواهید قدرت تحلیل الگوریتمی‌تان را تقویت کنید یا مهارت طراحی کد خود را ارتقا دهید، اینجا محتوایی سیستماتیک و حرفه‌ای پیدا می‌کنید.
 
-Multiple solution paths, from brute force to optimal
-
-Design patterns and data structure insights that you can reuse in real projects
-
-Whether you’re preparing for interviews, sharpening your algorithmic thinking, or improving your code design skills, you’ll find systematic, professional-grade guidance here.
-
-Algorithms are not just puzzles — they’re the language of efficient thinking.
-Let’s master that language together.
+الگوریتم‌ها فقط پازل نیستند — آن‌ها زبان *تفکر کارآمد* هستند.  
+بیایید این زبان را با هم به‌طور کامل یاد بگیریم.
