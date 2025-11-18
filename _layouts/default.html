@@ -6,7 +6,19 @@ layout: table_wrappers
 
 <html lang="{{ site.lang | default: 'en-US' }}">
 {% include head.html %}
-<style>.highlight, .breadcrumb-nav{direction: ltr !important;}</style>
+<style>
+  .highlight, .breadcrumb-nav{direction: ltr !important;}
+@media (min-width: 50rem) {
+  .main {
+    max-width: 500rem !important;
+  }
+}
+@media (min-width: 76.5rem) {
+  .site-nav, .site-header, .site-footer {
+    width: 30rem !important;
+  }
+}
+</style>
 <body>
   <a class="skip-to-main" href="#main-content">Skip to main content</a>
   {% include icons/icons.html %}
