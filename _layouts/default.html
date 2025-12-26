@@ -7,6 +7,18 @@ layout: table_wrappers
 <html lang="{{ site.lang | default: 'en-US' }}">
 {% include head.html %}
 <style>
+  @import url("/assets/fonts/Vazirmatn-font-face.css");
+
+* {
+    font-family: Vazirmatn, Tahoma, serif !important;
+}
+
+body,
+html,
+button,
+input {
+    font-family: Vazirmatn, Tahoma, serif !important;
+}
 .highlight, .breadcrumb-nav{
   direction: ltr !important;
 }
@@ -39,7 +51,7 @@ layout: table_wrappers
   {% endif %}
   <div class="main" id="top">
     {% include components/header.html %}
-    <div class="main-content-wrap" style="direction: rtl; font-family: Tahoma">
+    <div class="main-content-wrap" style="direction: rtl; font-family: Vazirmtn, Tahoma, serif;">
       {% include components/breadcrumbs.html %}
       <div id="main-content" class="main-content">
         <main>
